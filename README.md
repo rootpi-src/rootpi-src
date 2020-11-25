@@ -13,8 +13,6 @@
 ### Stats
 ![rootpi-src's github stats](https://github-readme-stats.vercel.app/api?username=rootpi-src&show_icons=true)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rootpi)](https://solved.ac/rootpi)
-
 ### Contact
 - Email : rootpi@icloud.com
 - Twitter : [@rootpi_](https://twitter.com/rootpi_)
