@@ -9,7 +9,6 @@
 
 - <img src="https://github.com/rootpi-src/rootpi-src/blob/main/CSharp.png" width="30px"> [ClipboardForm](https://github.com/rootpi-src/ClipboardForm)
 
-- <img src="https://github.com/rootpi-src/rootpi-src/blob/main/Kotlin.png" width="30px"> [DuelBot](https://github.com/rootpi-src/DuelBot)
 ### Stats
 ![rootpi-src's github stats](https://github-readme-stats.vercel.app/api?username=rootpi-src&show_icons=true)
 
