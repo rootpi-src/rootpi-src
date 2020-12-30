@@ -7,8 +7,6 @@
 ### Repositories
 - <img src="https://github.com/rootpi-src/rootpi-src/blob/main/Java.png" width="30px"> [CommandViewer](https://github.com/rootpi-src/CommandViewer)
 
-- <img src="https://github.com/rootpi-src/rootpi-src/blob/main/CSharp.png" width="30px"> [ClipboardForm](https://github.com/rootpi-src/ClipboardForm)
-
 ### Stats
 ![rootpi-src's github stats](https://github-readme-stats.vercel.app/api?username=rootpi-src&show_icons=true)
 
