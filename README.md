@@ -14,6 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootpi-src&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rootpi)](https://solved.ac/kinetic27)
+
 ### Contact
 - Email : rootpi@icloud.com
 - Twitter : [@rootpi_](https://twitter.com/rootpi_)
