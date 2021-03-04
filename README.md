@@ -6,10 +6,13 @@
 
 ### Repositories
 - [CommandViewer](https://github.com/rootpi-src/CommandViewer)
+- [Sig-Discord-Bot](https://github.com/rootpi-src/Sig-Discord-Bot)
 - [rootpi-src.github.io](https://rootpi-src.github.io/)
 
 ### Stats
 ![rootpi-src's github stats](https://github-readme-stats.vercel.app/api?username=rootpi-src&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootpi-src&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
 - Email : rootpi@icloud.com
