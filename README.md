@@ -10,9 +10,9 @@
 - [rootpi-src.github.io](https://rootpi-src.github.io/)
 
 ### Stats
-![rootpi-src's github stats](https://github-readme-stats.vercel.app/api?username=rootpi-src&show_icons=true&hide=javascript,html,css)
+![rootpi-src's github stats](https://github-readme-stats.vercel.app/api?username=rootpi-src&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootpi-src&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootpi-src&exclude_repo=rootpi-src.github.io,HexoBlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rootpi)](https://solved.ac/kinetic27)
 
