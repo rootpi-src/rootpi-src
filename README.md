@@ -12,7 +12,7 @@
 ### Stats
 ![rootpi-src's github stats](https://github-readme-stats.vercel.app/api?username=rootpi-src&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootpi-src&exclude_repo=rootpi-src.github.io,HexoBlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootpi-src&exclude_repo=rootpi-src.github.io,HexoBlog,solved.ac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rootpi)](https://solved.ac/kinetic27)
 
