@@ -2,7 +2,7 @@
 
 ### About
 - **Languages** : C, Java, 
-- **Learning** : C#(winform, Unity), Kotlin
+- **Learning** : C#(Unity), Kotlin
 
 ### Repositories
 - [CommandViewer](https://github.com/rootpi-src/CommandViewer)
