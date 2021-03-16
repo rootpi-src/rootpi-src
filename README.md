@@ -6,7 +6,6 @@
 
 ### Repositories
 - [CommandViewer](https://github.com/rootpi-src/CommandViewer)
-- [Sig-Discord-Bot](https://github.com/rootpi-src/Sig-Discord-Bot)
 - [rootpi-src.github.io](https://rootpi-src.github.io/)
 
 ### Stats
